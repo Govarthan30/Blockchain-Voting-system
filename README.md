@@ -199,7 +199,7 @@ blockchain-voting/
 1. **Fork** the repository.
 2. **Clone** the project:
    ```sh
-   git clone https://github.com/your-username/blockchain-voting.git
+   git clone https://github.com/Govarthan30/blockchain-Voting-system.git
    ```
 3. **Create a feature branch:**
    ```sh
